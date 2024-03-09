@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chat with PDF](https://github.com/Aditya190803/Chat-with-PDF)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning [Deep Learning](https://github.com/topics/deep-learning)
 
 - 👨‍💻 All of my projects are available at [Adityamer.me](Adityamer.me)
 
