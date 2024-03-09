@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Adityamer.me](Adityamer.me)
 
-- 💬 Ask me about **https://github.com/scikit-learn,https://github.com/Tensorflow and https://github.com/Pytorch**
+- 💬 Ask me about [scikit-learn](https://github.com/scikit-learn), [TensorFlow](https://github.com/Tensorflow), and [PyTorch](https://github.com/Pytorch).
 
 - 📫 How to reach me **aditya.mer@somaiya.edu**
 
