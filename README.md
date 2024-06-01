@@ -9,7 +9,7 @@
 
 - 💬 Ask me about [scikit-learn](https://github.com/scikit-learn), [TensorFlow](https://github.com/Tensorflow), and [PyTorch](https://github.com/Pytorch).
 
-- 📫 How to reach me **aditya.mer@somaiya.edu**
+- 📫 How to reach me **adityamer.work@gmail.com**
 
 - ⚡ Fun fact **Adding noise to the input data during training, a technique known as "stochastic depth," has been found to enhance the performance of deep neural networks.**
 
