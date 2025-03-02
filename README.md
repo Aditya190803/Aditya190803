@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate ML/DL Engineer from India</h3>
 
-- 🔭 I’m currently working on [AI Tutor](https://github.com/Aditya190803/AI_Tutor)
+- 🔭 I’m currently working on [Verify News](https://github.com/Aditya190803/Verify-News)
 
 - 🌱 I’m currently learning [Deep Learning](https://github.com/topics/deep-learning)
 
