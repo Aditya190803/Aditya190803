@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [Deep Learning](https://github.com/topics/deep-learning)
 
-- 👨‍💻 All of my projects are available at [Adityamer.me](https://www.Adityamer.me)
+- 👨‍💻 All of my projects are available at [Adityamer.live](https://www.Adityamer.live)
 
 - 💬 Ask me about [scikit-learn](https://github.com/scikit-learn), [TensorFlow](https://github.com/Tensorflow), and [PyTorch](https://github.com/Pytorch).
 
